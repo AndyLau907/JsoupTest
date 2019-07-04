@@ -14,7 +14,7 @@ public class NewsPPP {
 	
 	public void getNews(){
 		//#\32 0190703A0AB6E_1 > div > h3 > a
-		//#\32 0190703003775_2 > div > h3 > a
+		//#\32 0190703003775_2 > div > h3 > aa
 		ArrayList<News> newsList=new ArrayList<>();
 		//获取编辑推荐页
         try {
